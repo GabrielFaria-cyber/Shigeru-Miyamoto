@@ -2,7 +2,7 @@
 
 Dupla: Fernanda Viana e Gabriel Faria
 
-Tema: Shigeto Miyamoto
+Tema: Shigeru Miyamoto
 
 
 <a href= "https://github.com/GabrielFaria-cyber/Shigeto-Miyamoto/wiki/Biografia:-Shigeto-Miyamoto"> Biografia <a>
