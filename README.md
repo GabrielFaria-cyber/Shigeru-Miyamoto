@@ -1,4 +1,4 @@
-# Shigeto-Miyamoto
+# Shigeru-Miyamoto
 
 Dupla: Fernanda Viana e Gabriel Faria
 
