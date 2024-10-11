@@ -2,8 +2,6 @@
 
 ## Colaboradores: Fernanda Viana e Gabriel Faria
 
-Tema: Shigeru Miyamoto
-
 
 <a href= "https://github.com/GabrielFaria-cyber/Shigeto-Miyamoto/wiki/Biografia:-Shigeto-Miyamoto"> Biografia <a>
 
