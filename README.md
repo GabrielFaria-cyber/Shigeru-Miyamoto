@@ -1,6 +1,6 @@
 # Shigeru-Miyamoto
 
-Dupla: Fernanda Viana e Gabriel Faria
+## Colaboradores: Fernanda Viana e Gabriel Faria
 
 Tema: Shigeru Miyamoto
 
