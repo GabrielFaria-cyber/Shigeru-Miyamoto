@@ -3,7 +3,7 @@
 ## Colaboradores: Fernanda Viana e Gabriel Faria
 
 
-<a href= "https://github.com/GabrielFaria-cyber/Shigeto-Miyamoto/wiki/Biografia:-Shigeto-Miyamoto"> Biografia <a>
+<a href= "https://github.com/GabrielFaria-cyber/Shigeru-Miyamoto/wiki/Biografia:-Shigeru-Miyamoto"> Biografia <a>
 
 <a href= "https://github.com/GabrielFaria-cyber/Shigeto-Miyamoto/wiki/Prot%C3%B3tipo-App"> Protótipo App <a>
 
