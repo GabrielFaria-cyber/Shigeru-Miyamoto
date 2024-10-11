@@ -1,4 +1,4 @@
-# Shigeru-Miyamoto
+# Shigeru Miyamoto
 
 ## Colaboradores: Fernanda Viana e Gabriel Faria
 
