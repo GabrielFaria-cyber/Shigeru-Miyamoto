@@ -7,7 +7,7 @@
 - **Cursando:** ETEC Professor Basilides de Godoy - Ensino Médio com Habilitação Profissional Técnico em Programação de Jogos Digitais. 3ºA/2024
 
 
-
+## Sumário Wiki
 <a href= "https://github.com/GabrielFaria-cyber/Shigeru-Miyamoto/wiki/Biografia:-Shigeru-Miyamoto"> Biografia <a>
 
 <a href= "https://github.com/GabrielFaria-cyber/Shigeto-Miyamoto/wiki/Prot%C3%B3tipo-App"> Protótipo App <a>
