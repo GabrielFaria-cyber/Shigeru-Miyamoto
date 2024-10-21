@@ -1,6 +1,11 @@
-# Shigeru Miyamoto
+# Atividade Mobile e TDDGA - Shigeru Myiamoto
+<p align="center"><img width="500" src="https://github.com/user-attachments/assets/11f359be-7019-4f08-8c75-56336b9d20da">
 
-## Colaboradores: Fernanda Viana e Gabriel Faria
+## Colaboradores: 
+- Fernanda Viana
+- Gabriel Faria <br>
+- **Cursando:** ETEC Professor Basilides de Godoy - Ensino Médio com Habilitação Profissional Técnico em Programação de Jogos Digitais. 3ºA/2024
+
 
 
 <a href= "https://github.com/GabrielFaria-cyber/Shigeru-Miyamoto/wiki/Biografia:-Shigeru-Miyamoto"> Biografia <a>
