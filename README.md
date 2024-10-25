@@ -14,4 +14,4 @@
 
 <a href= "https://github.com/GabrielFaria-cyber/Shigeto-Miyamoto/wiki/Diagrama-de-Classe"> Diagrama de Classe <a>
 
-<a href= "https://github.com/GabrielFaria-cyber/Shigeto-Miyamoto/wiki/Descri%C3%A7%C3%A3o-do-Projeto">  Descrição do Projeto <a>
+<a href= "https://github.com/GabrielFaria-cyber/Shigeto-Miyamoto/wiki/Descri%C3%A7%C3%A3o-do-Projeto">  Descrição do Projeto <a> 
